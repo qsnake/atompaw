@@ -1,0 +1,28 @@
+F 9
+GGA-PBE loggrid 2001
+2 2 0 0 0 0 
+2 1 5 
+0 0 0 
+c 
+v 
+v 
+1
+1.5   1.25   1.5   1.5
+y 
+2 
+n
+y
+2 
+n 
+VANDERBILT  BESSELSHAPE 
+2 0
+1.5
+1.5
+1.5
+1.5
+2
+default
+3
+UPFDX  0.005d0   UPFXMIN   -9.d0     UPFZMESH 1.d0
+0
+

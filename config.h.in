@@ -1,0 +1,114 @@
+/* config.h.in.  Generated from configure.ac by autoheader.  */
+
+/* Define to 1 if you are using the ABSOFT Fortran compiler. */
+#undef FC_ABSOFT
+
+/* Define to 1 if you are using the COMPAQ Fortran compiler. */
+#undef FC_COMPAQ
+
+/* Define to 1 if you are using the Fujitsu Fortran compiler. */
+#undef FC_FUJITSU
+
+/* Define to 1 if you are using the G95 Fortran compiler. */
+#undef FC_G95
+
+/* Define to 1 if you are using the GNU Fortran compiler. */
+#undef FC_GNU
+
+/* Define to 1 if you are using the Hitachi Fortran compiler. */
+#undef FC_HITACHI
+
+/* Define to 1 if you are using the IBM XL Fortran compiler. */
+#undef FC_IBM
+
+/* Define to 1 if you are using the Intel Fortran compiler. */
+#undef FC_INTEL
+
+/* Define to 1 if you are using the MIPSpro Fortran compiler. */
+#undef FC_MIPSPRO
+
+/* Define to 1 if you are using the NAGWare Fortran 95 compiler. */
+#undef FC_NAG
+
+/* Define to 1 if you are using the Open64 Fortran compiler. */
+#undef FC_OPEN64
+
+/* Define to 1 if you are using the PathScale Fortran compiler. */
+#undef FC_PATHSCALE
+
+/* Define to 1 if you are using the Portland Group Fortran compiler. */
+#undef FC_PGI
+
+/* Define to 1 if you are using the Portland Group Fortran compiler version 6
+   */
+#undef FC_PGI6
+
+/* Define to 1 if you are using the Sun Fortran compiler. */
+#undef FC_SUN
+
+/* Define to 1 if you have the <dlfcn.h> header file. */
+#undef HAVE_DLFCN_H
+
+/* Define to 1 if your Fortran compiler supports Fortran 2003. */
+#undef HAVE_FORTRAN2003
+
+/* Define to 1 if you have the <inttypes.h> header file. */
+#undef HAVE_INTTYPES_H
+
+/* Define to 1 if you want to use LibXC. */
+#undef HAVE_LIBXC
+
+/* Define to 1 if you have the <memory.h> header file. */
+#undef HAVE_MEMORY_H
+
+/* Define to 1 if you have the <stdint.h> header file. */
+#undef HAVE_STDINT_H
+
+/* Define to 1 if you have the <stdlib.h> header file. */
+#undef HAVE_STDLIB_H
+
+/* Define to 1 if you have the <strings.h> header file. */
+#undef HAVE_STRINGS_H
+
+/* Define to 1 if you have the <string.h> header file. */
+#undef HAVE_STRING_H
+
+/* Define to 1 if you have the <sys/stat.h> header file. */
+#undef HAVE_SYS_STAT_H
+
+/* Define to 1 if you have the <sys/types.h> header file. */
+#undef HAVE_SYS_TYPES_H
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#undef HAVE_UNISTD_H
+
+/* Define to the sub-directory in which libtool stores uninstalled libraries.
+   */
+#undef LT_OBJDIR
+
+/* Name of package */
+#undef PACKAGE
+
+/* Define to the address where bug reports for this package should be sent. */
+#undef PACKAGE_BUGREPORT
+
+/* Define to the full name of this package. */
+#undef PACKAGE_NAME
+
+/* Define to the full name and version of this package. */
+#undef PACKAGE_STRING
+
+/* Define to the one symbol short name of this package. */
+#undef PACKAGE_TARNAME
+
+/* Define to the home page for this package. */
+#undef PACKAGE_URL
+
+/* Define to the version of this package. */
+#undef PACKAGE_VERSION
+
+/* Define to 1 if you have the ANSI C header files. */
+#undef STDC_HEADERS
+
+/* Version number of package */
+#undef VERSION
